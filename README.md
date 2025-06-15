@@ -1,4 +1,3 @@
-# amazon-affiliate-site
 <!DOCTYPE html>
 <html lang="he">
 <head>
